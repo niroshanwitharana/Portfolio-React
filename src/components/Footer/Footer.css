@@ -1,0 +1,21 @@
+.stickToFooter{
+    background: cornflowerblue;
+    height: 10px;
+    position: relative;
+}
+#basement{
+    text-align: center;
+    background: #3f51b5;
+    text-decoration: underline;   
+    color: #fafafa;  
+}
+.basementFix{
+   display: block;
+   bottom: 0px;
+   position: fixed;
+   width: -webkit-fill-available;
+}
+.foot{
+   margin-bottom: 0px !important;
+   margin-top: 0px;
+}
