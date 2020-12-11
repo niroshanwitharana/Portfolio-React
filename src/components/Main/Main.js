@@ -26,6 +26,7 @@ import HomeIcon from '@material-ui/icons/Home';
 import Home from "../Home/Home.js";
 import About from "../About/About.js";
 import Portfolio from "../Portfolio/Portfolio.js"
+import Portfo from "../Portfo/Portfo"
 
 import { GitHub, LinkedIn, Call } from "@material-ui/icons";
 const drawerWidth = 240;
@@ -194,6 +195,9 @@ export default function PersistentDrawerLeft(props) {
         <Divider style={{ border: '2px solid #3f51b5',
     backgroundColor: '#3f51b5' }}/>
         <Portfolio />
+        <br></br>
+        <br></br>
+        <Portfo />
       </main>
     </div>
   );
