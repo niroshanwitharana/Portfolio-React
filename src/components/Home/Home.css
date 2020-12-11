@@ -1,0 +1,21 @@
+img.theo{
+    width: 50%;
+    height: auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 10px;
+    padding-bottom: 30px;
+    
+}
+.aboutMeH4{
+    color: #3f51b5;    
+    font-size: xx-large;
+    text-align: center;
+    background-color: #fafafa; 
+}
+
+.niro{
+    color: #3f51b5;    
+    font-size: x-large;
+}
